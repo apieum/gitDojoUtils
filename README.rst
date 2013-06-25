@@ -5,8 +5,14 @@ git Dojo Utils
 Git utils for coding dojos
 ---------------------------------------------------------------------
 
-*usage*
- see tests::
+Add git hooks to a coding dojo repository to do things.
 
-   # cd gitDojoUtils
-   # nosetests --with-spec --spec-color ./
+*usage*
+
+see gitDojo -h
+
+*local install*
+
+    #pip install -e gitDojoUtils
+
+
